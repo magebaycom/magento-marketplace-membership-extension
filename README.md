@@ -3,7 +3,7 @@ Magento 2 Marketplace Membership Extension is a plugins of Magebay Multi Vendor 
 
 Read more [Magento Marketplace Membership Extension](https://www.magebay.com/magento-marketplace-membership)
 
-Read more [Magento Marketplace](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
+Read more [Magento Multi Vendor Extension](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
 ## Top features of Marketplace Membership Extension for Magento 2
 - Admin can create new Membership package
@@ -19,3 +19,5 @@ Read more [Magento Marketplace](https://www.magebay.com/magento-multi-vendor-mar
 - 100% open source
 - User-friendly interface.
 - Support Multiple Store and Websites
+
+Related plugins: [Magento Marketplace Plugins](https://github.com/magebaycom/)
