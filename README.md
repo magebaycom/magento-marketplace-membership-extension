@@ -20,4 +20,4 @@ Read more [Magento Multi Vendor Extension](https://www.magebay.com/magento-multi
 - User-friendly interface.
 - Support Multiple Store and Websites
 
-Related plugins: [Magento Marketplace Plugins](https://github.com/magebaycom/)
+Related plugins: [Magento Marketplace Vendor DHL Shipping Extension](https://github.com/magebaycom/magento-marketplace-vendor-dhl-shipping)
